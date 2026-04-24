@@ -1,7 +1,7 @@
 # Quizify
 
 Quizify is an AI-powered learning platform that turns user study material into adaptive quizzes, mentor-style Q&A, AI review summaries, and progress insights.
-## Watch live at https://quizify-ai-one.vercel.app/
+### Watch live at https://quizify-ai-one.vercel.app/
 This repository contains:
 
 - FastAPI backend (API + AI orchestration + persistence)

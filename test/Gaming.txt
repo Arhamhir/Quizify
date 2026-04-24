@@ -1,0 +1,31 @@
+The video game industry is a significant segment of the leisure sector, straddling the tertiary sector, which provides services to people, and the quaternary sector, which focuses on knowledge-intensive activities such as research and technological development. This industry includes the development, marketing, distribution, monetization, and consumer feedback processes related to video games. The industry encompasses dozens of job disciplines and thousands of jobs worldwide.[1] The professions involved range from game designers and software engineers to sound designers, testers, marketers, and customer support staff. Video games have gradually gained increasing relevance as a widespread cultural phenomenon, exerting significant influence on many areas of contemporary society: from the economy and the labor market to education, from consumption patterns and daily habits to architecture and urban planning, passing through sectors such as healthcare, the automotive industry, cinema and television, fashion, and sports.[2]
+
+The video game industry has grown from niche to mainstream.[3] As of July 2018, video games generated US$134.9 billion annually in global sales.[4] In the US, the industry earned about $9.5 billion in 2007, $11.7 billion in 2008, and US$25.1 billion in 2010,[5] as per the ESA annual report. Research from Ampere Analysis indicated three points: the sector has consistently grown since at least 2015 and expanded 26% from 2019 to 2021, to a record $191 billion; the global games and services market is forecast to shrink 1.2% annually to $188 billion in 2022.[6] Video games now compete with movies, music, and television in terms of both popularity and revenue.
+
+The video game industry has played an important role in improvement of computer hardware. Many parts of modern personal computers were originally improved to meet the needs of video games. The industry has influenced the technological advancement of personal computers through sound cards, graphics cards and 3D graphic accelerators, CPUs, and co-processors like PhysX.[citation needed] Sound cards, for example, were originally developed for games and then improved for adoption by the music industry.[7]
+
+Industry overview
+Size
+In 2017 in the United States, which represented about a third of the global video game market, the Entertainment Software Association estimated that there were over 2,300 development companies and over 525 publishing companies, including in hardware and software manufacturing, service providers, and distributors. These companies in total have nearly 66,000 direct employees. If including indirect employment, such as a developer using the services of a graphics design package from a different firm, the total number of employees involved in the video game industry rises above 220,000.[8]
+
+Value chain
+Traditionally, the video game industry has had six connected layers in its value chain based on the retail distribution of games:
+
+Game development, representing programmers, designers, and artists, and their leadership, with support of middleware and other development tools.
+Publishing, which typically includes both the source of funding the development of a video game, as well as providing the marketing and advertising for a game.
+Distribution, whether through retail or digital channels. Distribution typically includes manufacturing and duplication of game media and packaging for retail games.
+Retailer, storefront where the game is sold.
+Consumers, the purchasers and players of video games
+Hardware platform manufacturers, which can own and place limitations for content on the platform they have made, charging license fees to developers or publishers.
+As games have transitioned from the retail to more digital market, parts of this value chain have become redundant. For example, the distributor may be redundant as a function of either the publisher or the retailer, or even in some cases as the case of indie games, the function of the developer themselves.[9]
+
+Roles
+Ben Sawyer of Digitalmill observes that the development side of the industry is made up of six connected and distinctive layers:
+
+Capital and publishing layer: involved in paying for development of new games and seeking returns through licensing of the properties.
+Product and talent layer: includes developers, designers and artists, who may be working under individual contracts or as part of in-house development teams.
+Production and tools layer: generates content production tools, game development middleware, customizable game engines, and production management tools.
+Distribution layer: or the "publishing" industry, involved in generating and marketing catalogs of games for retail and online distribution.
+Hardware (or Virtual Machine or Software Platform) layer: or the providers of the underlying platform, which may be console-based, accessed through online media, or accessed through mobile devices such as smartphones. This layer includes network infrastructure and non-hardware platforms such as virtual machines (such as Java or Flash), or software platforms such as browsers or Facebook.
+End-users layer: or the players of the games.[10]
+The game industry employs those experienced in other traditional businesses, but some have experience tailored to the game industry. Some of the disciplines specific to the game industry include: game programmer, game designer, level designer, game producer, game artist, and game tester. Most of these professionals are employed by video game developers or video game publishers. However, many hobbyists also produce computer games and sell them commercially.[citation needed] Game developers and publishers sometimes employ those with extensive or long-term experience within the modding communities.[11]
